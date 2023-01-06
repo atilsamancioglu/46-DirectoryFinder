@@ -17,7 +17,7 @@ def findDirectories(url):
 				print("Found URL --> " + testUrl)
 				foundUrls.append(word)
 
-url="atilsamancioglu.com"
+url="test.com"
 findDirectories(url)
 
 #for foundUrl in foundUrls:
